@@ -58,15 +58,15 @@ _欢迎您在以上列表中添加您认为优秀的流程图工具_
 
 #### RES
 
-[RES](http://res.wisedu.com/)是金智教育内部前端开发，产品经理和交互设计师共同协作的 web 平台。通过浏览器访问查看。在 RES 中，你可以看到组件与场景，开发规范和图标库等。
+[RES](http://res.wisedu.com/) 是金智教育内部前端开发，产品经理和交互设计师共同协作的 web 平台。通过浏览器访问查看。在 RES 中，你可以看到组件与场景，开发规范和图标库等。
 
 网址：[http://res.wisedu.com/](http://res.wisedu.com/)
 
 ![](http://oizi4nn30.bkt.clouddn.com/RES%E9%A6%96%E9%A1%B5.png)
 
-RES 中的[ID 板块](http://res.wisedu.com/ID/)是交互设计师最常用的功能，在 RES/ID/ 中，交互设计师可以直接上传 Axure 生成的 html 文件到网络服务器，并通过浏览器远程访问。同时部门内部可以共享／查看原型，便于沟通。
+RES 中的 [ID 板块](http://res.wisedu.com/ID/)是交互设计师最常用的功能，在 RES/ID/ 中，交互设计师可以直接上传 Axure 生成的 html 文件到网络服务器，并通过浏览器远程访问。同时部门内部可以共享／查看原型，便于沟通。
 
-网址：[http://res.wisedu.com/ID/](http://res.wisedu.com/ID/)账号：`刮开`密码：`刮开`
+网址：[http://res.wisedu.com/ID/](http://res.wisedu.com/ID/) 账号：`刮开`密码：`刮开`
 
 ![](http://oizi4nn30.bkt.clouddn.com/RES:ID%E9%A6%96%E9%A1%B52.png)
 
@@ -80,7 +80,7 @@ RES 中的[ID 板块](http://res.wisedu.com/ID/)是交互设计师最常用的�
 
 ##### 上传修改删除
 
-RES/ID/ 的操作逻辑十分简单，像同步云盘一样，只需要把文件夹拷贝进设备的相关路径下即为上传，也可直接在相关路径下对文件或文件夹进行编辑删除。但首先，你需要把当前计算机连接至 RES 网络服务器。
+RES/ID/ 的操作逻辑十分简单，像本地磁盘一样，只需要把文件夹拷贝进设备的相关路径下即为上传，也可直接在相关路径下对文件或文件夹进行编辑删除。但首先，你需要把当前计算机连接至 RES 网络服务器。
 
 * Macintosh
 
@@ -98,6 +98,7 @@ RES/ID/ 的操作逻辑十分简单，像同步云盘一样，只需要把文件
 
   tips：Macintosh 下可能因为网络切换和重启导致断开服务器连接，只需要再次打开浏览器点击相应书签即可。
 
-  
+* Windows
 
+  1. 桌面找到「计算机」，右击找到「添加网络映射器」
 
