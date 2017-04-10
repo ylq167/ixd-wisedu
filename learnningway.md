@@ -2,9 +2,8 @@
 
 > 我爱学习🙂🙂🙂
 
-* [周会](learnningway-1week.md)
-* [内部](learnningway-2insideweb)
-* [网站](learnningway-3web)
-* [微信公众号](learnningway-4wechat.md)
-* [书籍](learnningway-5book.md)
-* [其他](learnningway-6others)
+* [周会](learnning/learnningway-1week.md)
+* [内部](learnning/learnningway-2insideweb)
+* [网站](learnning/learnningway-3web)
+* [书籍](learnning/learnningway-5book.md)
+* [其他](learnning/learnningway-6others)
