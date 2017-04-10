@@ -1,11 +1,9 @@
 ## 交互设计师工作指南之环境配置
 
-<<<<<<< HEAD
-> _**磨刀不误砍柴功；三天打鱼两天晒网；工欲善其事必先利其器。**作为一名交互设计师，在开始工作前配置合适舒适的软硬件环境是必须的。本章分为软件和硬件两个部分。
-=======
+
+
 > **磨刀不误砍柴功；三天打鱼两天晒网；工欲善其事必先利其器。**作为一名交互设计师，在开始工作前配置合适舒适的软硬件环境是必须的。本章分为软件和硬件两个部分。
 >
->>>>>>> b4f272e4fba3ef632ecba35930032a4e5a51db29
 
 ### 硬件
 
@@ -57,7 +55,7 @@ _欢迎您在以上列表中添加您认为优秀的思维导图工具_
 
 \_欢迎您在以上列表中添加您认为优秀的流程图工具\_。
 
----- 
+----
 
 ### 网络
 
@@ -107,20 +105,20 @@ RES/ID/ 的操作逻辑十分简单，像本地磁盘一样，只需要把文件
 
   1. 桌面找到「计算机」，右击找到「添加网络映射驱动器」
 
-[1]:	http://www.axure.com.cn
-[2]:	http://www.axure.com.cn/3945/
-[3]:	http://www.xmindchina.net
-[4]:	http://mindnode.com
-[5]:	http://naotu.baidu.com
-[6]:	http://www.mindmanager.cc
-[7]:	http://www.processon.com
-[8]:	https://products.office.com/zh-cn/visio/flowchart-software
-[9]:	http://www.processon.com
-[10]:	https://www.draw.io
-[11]:	http://res.wisedu.com/
-[12]:	http://res.wisedu.com/
-[13]:	http://res.wisedu.com/ID/
-[14]:	http://res.wisedu.com/ID/
+  [1]:http://www.axure.com.cn
+  [2]:http://www.axure.com.cn/3945/
+  [3]:http://www.xmindchina.net
+  [4]:http://mindnode.com
+  [5]:http://naotu.baidu.com
+  [6]:http://www.mindmanager.cc
+  [7]:http://www.processon.com
+  [8]:https://products.office.com/zh-cn/visio/flowchart-software
+  [9]:http://www.processon.com
+  [10]:https://www.draw.io
+  [11]:http://res.wisedu.com/
+  [12]:http://res.wisedu.com/
+  [13]:http://res.wisedu.com/ID/
+  [14]:http://res.wisedu.com/ID/
 
-[image-1]:	http://oizi4nn30.bkt.clouddn.com/RES%E9%A6%96%E9%A1%B5.png
-[image-2]:	http://oizi4nn30.bkt.clouddn.com/RES:ID%E9%A6%96%E9%A1%B52.png
+  [image-1]:http://oizi4nn30.bkt.clouddn.com/RES%E9%A6%96%E9%A1%B5.png
+  [image-2]:http://oizi4nn30.bkt.clouddn.com/RES:ID%E9%A6%96%E9%A1%B52.png
