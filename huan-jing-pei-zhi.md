@@ -1,7 +1,6 @@
 ## 交互设计师工作指南之环境配置
 
-> _**磨刀不误砍柴功；三天打鱼两天晒网；工欲善其事必先利其器。**_作为一名交互设计师，在开始工作前配置合适舒适的软硬件环境是必须的。本章分为软件和硬件两个部分。
->
+> _**磨刀不误砍柴功；三天打鱼两天晒网；工欲善其事必先利其器。**作为一名交互设计师，在开始工作前配置合适舒适的软硬件环境是必须的。本章分为软件和硬件两个部分。
 
 ### 硬件
 
@@ -15,11 +14,11 @@ _tips：当您使用个人电脑连接显示器扩展屏幕时，推荐优先使
 
 #### 原型工具
 
-金智教育 EDC 交互设计组目前统一使用 Axure RP 8 作为主要低保真原型工具，由于某些原因公司无法提供 Axure 团队版本，您需要自行解决 Axure 的安装问题。推荐[下载地址](http://www.axure.com.cn)。
+金智教育 EDC 交互设计组目前统一使用 Axure RP 8 作为主要低保真原型工具，由于某些原因公司无法提供 Axure 团队版本，您需要自行解决 Axure 的安装问题。推荐[下载地址][1]。
 
 建议您及时对 Axure 进行升级。为了部门内部工作协同，您的 Axure 版本至少应为 Axure RP 8.0.0.3312。
 
-_tips：若您为在校师生，您可以申请 Axure RP 提供的免费教育授权。_[_查看攻略_](http://www.axure.com.cn/3945/)
+_tips：若您为在校师生，您可以申请 Axure RP 提供的免费教育授权。_[_查看攻略_][2]
 
 #### 思维导图工具
 
@@ -29,15 +28,15 @@ _tips：若您为在校师生，您可以申请 Axure RP 提供的免费教育�
 
 目前我们并没有统一的思维导图工具。您可以选择使用您喜欢的任何软件，当然您也可以选择不使用。以下是我们推荐的思维导图工具：
 
-* [Xmind](http://www.xmindchina.net)
+* [Xmind][3]
 
-* [MindNode](http://mindnode.com)
+* [MindNode][4]
 
-* [百度脑图](http://naotu.baidu.com)
+* [百度脑图][5]
 
-* [MindManager](http://www.mindmanager.cc)
+* [MindManager][6]
 
-* [ProcessOn](http://www.processon.com)
+* [ProcessOn][7]
 
 _欢迎您在以上列表中添加您认为优秀的思维导图工具_
 
@@ -45,31 +44,31 @@ _欢迎您在以上列表中添加您认为优秀的思维导图工具_
 
 我们通常使用流程图来描述业务流程、操作流程和页面流程，手绘流程图是最直观快捷的方式，但为了向上下游更好的展示，您可以用软件绘制流程图。以下是我们推荐的流程图工具：
 
-* [Visio](https://products.office.com/zh-cn/visio/flowchart-software)
+* [Visio][8]
 
-* [ProcessOn](http://www.processon.com)
+* [ProcessOn][9]
 
-* [draw.io](https://www.draw.io)
+* [draw.io][10]
 
-_欢迎您在以上列表中添加您认为优秀的流程图工具_。
+\_欢迎您在以上列表中添加您认为优秀的流程图工具\_。
 
-***
+---- 
 
 ### 网络
 
 #### RES
 
-[RES](http://res.wisedu.com/) 是金智教育内部前端开发，产品经理和交互设计师共同协作的 web 平台。通过浏览器访问查看。在 RES 中，你可以看到组件与场景，开发规范和图标库等。
+[RES][11] 是金智教育内部前端开发，产品经理和交互设计师共同协作的 web 平台。通过浏览器访问查看。在 RES 中，你可以看到组件与场景，开发规范和图标库等。
 
-网址：[http://res.wisedu.com/](http://res.wisedu.com/)
+网址：[http://res.wisedu.com/][12]
 
-![](http://oizi4nn30.bkt.clouddn.com/RES%E9%A6%96%E9%A1%B5.png)
+![][image-1]
 
-RES 中的 [ID 板块](http://res.wisedu.com/ID/)是交互设计师最常用的功能，在 RES/ID/ 中，交互设计师可以直接上传 Axure 生成的 html 文件到网络服务器，并通过浏览器远程访问。同时部门内部可以共享／查看原型，便于沟通。
+RES 中的 [ID 板块][13]是交互设计师最常用的功能，在 RES/ID/ 中，交互设计师可以直接上传 Axure 生成的 html 文件到网络服务器，并通过浏览器远程访问。同时部门内部可以共享／查看原型，便于沟通。
 
-网址：[http://res.wisedu.com/ID/](http://res.wisedu.com/ID/) 账号：`刮开`密码：`刮开`
+网址：[http://res.wisedu.com/ID/][14] 账号：`刮开`密码：`刮开`
 
-![](http://oizi4nn30.bkt.clouddn.com/RES:ID%E9%A6%96%E9%A1%B52.png)
+![][image-2]
 
 ##### 查看
 
@@ -103,3 +102,20 @@ RES/ID/ 的操作逻辑十分简单，像本地磁盘一样，只需要把文件
 
   1. 桌面找到「计算机」，右击找到「添加网络映射驱动器」
 
+[1]:	http://www.axure.com.cn
+[2]:	http://www.axure.com.cn/3945/
+[3]:	http://www.xmindchina.net
+[4]:	http://mindnode.com
+[5]:	http://naotu.baidu.com
+[6]:	http://www.mindmanager.cc
+[7]:	http://www.processon.com
+[8]:	https://products.office.com/zh-cn/visio/flowchart-software
+[9]:	http://www.processon.com
+[10]:	https://www.draw.io
+[11]:	http://res.wisedu.com/
+[12]:	http://res.wisedu.com/
+[13]:	http://res.wisedu.com/ID/
+[14]:	http://res.wisedu.com/ID/
+
+[image-1]:	http://oizi4nn30.bkt.clouddn.com/RES%E9%A6%96%E9%A1%B5.png
+[image-2]:	http://oizi4nn30.bkt.clouddn.com/RES:ID%E9%A6%96%E9%A1%B52.png
