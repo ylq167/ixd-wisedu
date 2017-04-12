@@ -13,7 +13,7 @@
     * [网站](learnningway/websites.md)
     * [书籍](learnningway/books.md)
     * [其他](learnningway/others.md)
-* [准备工作](preparation.md)
+* [准备工作](preparations.md)
   * [硬件](hardwares.md)
   * [软件](softwares.md)
     * [原型](softwares/prototype.md)
