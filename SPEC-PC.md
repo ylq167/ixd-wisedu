@@ -20,6 +20,6 @@
 - [交互输出物模版](http://res.wisedu.com/ID/1.SPEC/PC/1.Components/PC-%E4%BA%A4%E4%BA%92%E6%96%87%E6%A1%A3%E6%A8%A1%E6%9D%BF-V1.0-16.08.05%40%E6%8F%AD%E5%85%81%E6%96%8C/#g=1)
 该文档给出了交互设计输出物的规范建议，可供参考。
 
--[其他](http://res.wisedu.com/ID/1.SPEC/PC/)
+- [其他](http://res.wisedu.com/ID/1.SPEC/PC/)
 ![](http://olat3wq2g.bkt.clouddn.com/20170418113639_L0fnYp_zujian.png)
 在 1. Components 和 4. Test 中，有更多组件相关内容的设计原型，可供参考。
