@@ -9,5 +9,5 @@
   * [网络](networks.md)
 * [设计规范-PC](SPEC-PC.md)
 * [设计规范-Mobile](SPEC-Mobile.md)
-* [建立你的第一个低保真原型]（getstarted.md）
+* [建立你的第一个低保真原型](getstarted.md)
 * [设计案例](examples.md)
