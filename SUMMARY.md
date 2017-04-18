@@ -8,10 +8,6 @@
   * [软件](softwares.md)
   * [网络](networks.md)
 * [设计规范-PC](SPEC-PC.md)
-  * [场景](SPEC-PC/scenes.md)
-  * [模版](SPEC-PC/templates.md)
-  * [组件](SPEC-PC/components.md)
 * [设计规范-Mobile](SPEC-Mobile.md)
-  * [场景](SPEC-Mobile/scenes.md)
-  * [组件](SPEC-Mobile/components.md)
+* [建立你的第一个低保真原型]（getstarted.md）
 * [设计案例](examples.md)
