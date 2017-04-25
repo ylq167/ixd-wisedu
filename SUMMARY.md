@@ -3,7 +3,7 @@
 * [序言](README.md)
   * [整体介绍](introduction.md)
   * [工作流](workflow.md)
-  * [学习通道](learnningway.md)
+  * [学习通道](learningways.md)
 * [准备工作](preparations.md)
   * [软件](softwares.md)
   * [网络](networks.md)

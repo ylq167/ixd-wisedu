@@ -15,3 +15,9 @@
 * [draw.io](https://www.draw.io)
 
 欢迎您在以上列表中添加您认为优秀的流程图工具。
+
+除了绘制流程图的软件外，只要掌握流程图的结构，用 Axure、Sketch、Photoshop 能绘制出定制化更高的流程图。
+
+##### 示例
+![](http://olat3wq2g.bkt.clouddn.com/20170425185120_BZF1MM_学籍异动页面流程.png)
+![](http://olat3wq2g.bkt.clouddn.com/20170425185324_ZJ4iIr_泳道图.png)
