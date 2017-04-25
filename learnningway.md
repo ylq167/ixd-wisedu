@@ -16,7 +16,7 @@
 
 那就在这里排一个记录人的顺序表好了～（大概是按入职时间顺序排列）
 
-@[柳俊](junliu01@wisedu.com) @[李海涛](htli@wisedu.com) @[杨茂盛](msyang@wisedu.com) @[朱胤如](yrzhu@wisedu.com) @[刘超鹏](cpliu@wisedu.com) @[佟新](xintong@wisedu.com) @[李栋栋](ddli@wisedu.com) @[杨柳青](lqyang@wisedu.com) @[陈霖](linchen01@wisedu.com) @[赵建国](jgzhao@wisedu.com)
+@[柳俊](junliu01@wisedu.com) @[李海涛](htli@wisedu.com) @[杨茂盛](msyang@wisedu.com) @[刘超鹏](cpliu@wisedu.com) @[佟新](xintong@wisedu.com) @[李栋栋](ddli@wisedu.com) @[杨柳青](lqyang@wisedu.com) @[陈霖](linchen01@wisedu.com) @[赵建国](jgzhao@wisedu.com)
 
 ### 内部
 
