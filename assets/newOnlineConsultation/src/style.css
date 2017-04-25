@@ -1,0 +1,55 @@
+body {
+    height: 100vh;
+    background-color: #f9f9f9;
+    font-family: ZhiFont, ".SFNSText-Regular", "Helvetica Neue", Roboto, "Segoe UI", sans-serif;;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+body.preventScroll {
+}
+.preventScroll .main__content {
+    height: calc(100vh - 44Px);
+    overflow: hidden;
+}
+
+body {
+    height: 100vh;
+    background-color: #f9f9f9;
+    font-family: ZhiFont, ".SFNSText-Regular", "Helvetica Neue", Roboto, "Segoe UI", sans-serif;;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+body.preventScroll {
+}
+.preventScroll .main__content {
+    height: calc(100vh - 44Px);
+    overflow: hidden;
+}
+.onlineconsultation-mt-header {
+    background-color: #f9f9f9 !important;
+    border-bottom: 0.05rem solid #eeeeee;
+    color: #333333 !important;
+    font-size: 1.7rem !important;
+    height: 44Px!important;
+    padding: 0 15Px!important;
+    z-index: 10!important;
+}
+.header-back {
+    width: 1.9rem;
+    height: 2.1rem;
+    margin-left: 0.5rem;
+}
+.mint-header-title {
+    color: #333333;
+    font-size: 34px;
+}
+.mint-cell-allow-right:after {
+    width: 10px!important;
+    height: 10px!important;
+}
+.cell-item:before {
+    color: #fff!important;
+}
+
+
+

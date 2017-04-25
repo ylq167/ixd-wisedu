@@ -32,6 +32,9 @@
 
 这是整个交互设计组的成果所在，所有人的原型原文件都在这里。提示：访问需要密码。  ​
 
+- [图标库](http://res.wisedu.com/fe_components/iconfont/demo.html)
+这是我们内部优先使用的图标库，建议尽量使用该库的图标，若希望完善图标库，可和视觉组沟通维护。
+
 ### 网站
 
 - [Material Design 指南中文版](http://www.mdui.org/design/)
