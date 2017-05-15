@@ -6,6 +6,12 @@ RES 是公司内部前端工程师、交互设计师和视觉设计师使用的�
 
 - [RES使用说明](http://ued.wisedu.com/wordpress/2017/04/17/res/)
 
+2017 年 5 月 15 日更新：
+
+新增 RES 更新指南，必看！
+
+- [如何利用 FileZilla 更新 RES 服务器的文件](http://ued.wisedu.com/wordpress/2017/05/15/res-ftp/)
+
 #### 充电宝
 充电宝是金智教育员工专属的 mooc 平台，有各方面的优秀教学资源供员工学习使用。
 - [充电宝使用说明](http://ued.wisedu.com/wordpress/2017/04/17/moocs/)
