@@ -27,3 +27,6 @@
 - [其他](http://res.wisedu.com/ID/1.SPEC/PC/)
 ![](http://olat3wq2g.bkt.clouddn.com/20170418113639_L0fnYp_zujian.png)
 在 1. Components 和 4. Test 中，有更多组件相关内容的设计原型，可供参考。
+
+- [交互设计规范](http://res.wisedu.com/ID/4.Management%20App/研究生/Test/设计思路/)
+来源@李栋栋
