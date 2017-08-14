@@ -12,11 +12,7 @@
 
 每周例会有一个交互设计师作记录员，记录下大家遇到的问题和会议中需要老熊@荆天骐 跟进的问题，同时会后大家需要把本周工作和遇到的问题，下周计划发给当周记录人，记录人统计后会发邮件给所有人～
 
-> tips：大家每周五早晨一定要吃饱哦～
-
-那就在这里排一个记录人的顺序表好了～（大概是按入职时间顺序排列）
-
-@[柳俊](junliu01@wisedu.com) @[李海涛](htli@wisedu.com) @[杨茂盛](msyang@wisedu.com) @[刘超鹏](cpliu@wisedu.com) @[佟新](xintong@wisedu.com) @[李栋栋](ddli@wisedu.com) @[杨柳青](lqyang@wisedu.com) @[陈霖](linchen01@wisedu.com) @[赵建国](jgzhao@wisedu.com)
+> tips：大家每周五早晨一定要吃饱～
 
 ### 内部
 
